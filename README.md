@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SanthoshManapuram
 - 👀 I’m interested UI development and Spring boot
-- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on UI development
 - 📫 Reach me at santhoshkumarmanapuram@gmail.com
 
